@@ -1,4 +1,4 @@
-### Hi there 👋 i'm student k19 of information technology hanoi open univercity
+### Hi there 👋 i'm student k19 of information technology hanoi open university
 
 =================== Profile ====================
 
