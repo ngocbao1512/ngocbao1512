@@ -3,7 +3,7 @@
 =================== Profile ====================
 
 
-- 🌱 I’m currently learning JavarScript
+- 🌱 I’m currently learning PHP
 
 - 🔭 Programming language i use : 
 
