@@ -6,7 +6,7 @@
 [![](https://img.shields.io/badge/Gmail-ngocbao0891@gmail.com-green)](mailto:ngocbao0891@gmail.com)
 [![](https://img.shields.io/badge/Facebook-Ngoc_Bao-orange)](https://www.facebook.com/baobao080901/)
 
-<img align='right' src="https://media.giphy.com/media/nGMnDqebzDcfm/giphy.gif" width="380">
+<img align='right' src="https://media.giphy.com/media/nGMnDqebzDcfm/giphy.gif" width="350">
 
 
 
