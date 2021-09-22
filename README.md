@@ -25,7 +25,6 @@
     <img src="img/html.png" alt="">
     <img src="img/css.png" alt="">
     <img src="img/js.png" alt="">
-    <img src="img/linux.png" alt="">
     <img src="img/C.png" alt="">
 </div>
 
