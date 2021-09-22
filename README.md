@@ -1,11 +1,22 @@
-### Hi there 👋 i'm student k19 of information technology hanoi open university
+<h3 align="center"> ### Hi there 👋 i'm student k19 of information technology hanoi open university </h3>
+<br>
 
 =================== Profile ====================
 
+[![](https://img.shields.io/badge/Gmail-ngocbao0891@gmail.com-green)](mailto:ngocbao0891@gmail.com)
+[![](https://img.shields.io/badge/Facebook-Ngoc_Bao-orange)](https://www.facebook.com/baobao080901/)
 
-- 🌱 I’m currently learning PHP
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="280">
 
-- 🔭 Programming language i use : 
+
+🌱 I’m currently learning PHP
+<br>
+<h4 align="left">Top langs</h4>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngocbao1512&langs_count=10&theme=tokyonight&layout=compact" /></p>
+
+<h4 align="left">Overall 😝</h4>
+
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=ngocbao1512&show_icons=true&theme=synthwave" /></p>
 
 
 
