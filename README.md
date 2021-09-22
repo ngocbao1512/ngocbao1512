@@ -19,5 +19,15 @@
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=ngocbao1512&show_icons=true&theme=synthwave" /></p>
 
 
+## Technology
 
+<div align="center">
+    <img src="img/html.png" alt="">
+    <img src="img/css.png" alt="">
+    <img src="img/js.png" alt="">
+    <img src="img/linux.png" alt="">
+    <img src="img/docker.png" alt="">  
+    <img src="img/Github.png" alt="">
+    <img src="img/C.png" alt="">
+</div>
 
