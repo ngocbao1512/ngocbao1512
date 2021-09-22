@@ -16,7 +16,6 @@
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngocbao1512&langs_count=10&theme=tokyonight&layout=compact" /></p>
 
 <h4 align="left">Overall 😝</h4>
-
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=ngocbao1512&show_icons=true&theme=synthwave" /></p>
 
 
